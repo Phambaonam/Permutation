@@ -48,3 +48,14 @@
 * git clone https://github.com/Phambaonam/Permutation.git
 * cd Permutation
 * node index.js 
+
+## Ket qua
+```javascript
+    [ 1, 2, 3 ]
+    [ 1, 3, 2 ]
+    [ 2, 1, 3 ]
+    [ 2, 3, 1 ]
+    [ 3, 2, 1 ]
+    [ 3, 1, 2 ]
+
+```
