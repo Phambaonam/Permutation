@@ -1,0 +1,22 @@
+{
+  "name": "hoan-vi",
+  "version": "1.0.0",
+  "description": "su dung hoan vi, in ra tat ca ket qua co dc cua 1 day so gom n phan tu.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -S"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phambaonam/Permutation.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Doremon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Phambaonam/Permutation/issues"
+  },
+  "homepage": "https://github.com/Phambaonam/Permutation#readme"
+}
