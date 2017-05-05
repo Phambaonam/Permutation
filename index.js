@@ -12,11 +12,8 @@ permute = (arr, startIndex, endIndex) => {
     } else {
         for (let i = startIndex; i <= endIndex; i++) {
             swap(arr, startIndex, i);
-            console.log('1', arr);
             permute(arr, startIndex + 1, endIndex);
-            console.log('2', arr);
             swap(arr, startIndex, i); // backtrack
-            console.log('3', arr);
         }
     }
 }
