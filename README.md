@@ -49,7 +49,7 @@
 * cd Permutation
 * node index.js 
 
-## Ket qua
+## Kết quả
 ```javascript
     [ 1, 2, 3 ]
     [ 1, 3, 2 ]
